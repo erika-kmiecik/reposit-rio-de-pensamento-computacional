@@ -1,1 +1,1 @@
-# reposit-rio-de-pensamento-computacional
+# repositorio-de-pensamento-computacional:
